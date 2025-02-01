@@ -1,5 +1,6 @@
 # Ejercicio Full Stack - IA Unab
 
+Autor: Carlos Mantilla Jaimes
 
 ## Objetivo
 El objetivo principal de este proyecto es desarrollar una solución FullStack basada en Inteligencia Artificial que permita a los usuarios analizar imágenes para detectar objetos en entornos de interés, como estanterías de supermercados.
