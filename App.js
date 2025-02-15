@@ -13,7 +13,7 @@ import {
 import * as ImagePicker from "expo-image-picker";
 import { LinearGradient } from "expo-linear-gradient";
 
-const SERVER_URL = "http://44.204.10.241:8080/detect/";
+const SERVER_URL = "http://18.212.24.91:8080/detect/";
 
 export default function App() {
   const [image, setImage] = useState(null);
